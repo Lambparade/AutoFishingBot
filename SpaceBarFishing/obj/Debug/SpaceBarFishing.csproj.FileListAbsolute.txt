@@ -1,0 +1,7 @@
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\bin\Debug\SpaceBarFishing.exe.config
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\bin\Debug\SpaceBarFishing.exe
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\bin\Debug\SpaceBarFishing.pdb
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\obj\Debug\SpaceBarFishing.csprojAssemblyReference.cache
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\obj\Debug\SpaceBarFishing.csproj.CoreCompileInputs.cache
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\obj\Debug\SpaceBarFishing.exe
+C:\Users\robinson\Source\repos\n2\SpaceBarFishing\obj\Debug\SpaceBarFishing.pdb
