@@ -42,6 +42,7 @@ namespace SpaceBarFishing
 
       public static void SendSpace()
       {
+         //Change Later
          IntPtr WindowToFind = FindWindow("MozillaWindowClass", null);
 
          Console.ForegroundColor = ConsoleColor.Red;
